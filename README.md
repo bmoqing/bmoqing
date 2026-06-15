@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome, the <b>th</b> visitor!
+  Welcome to my profile! You are the visitor:
 </p>
 
 ---
@@ -36,8 +36,8 @@
 ### 👁️‍🗨️ Find Me
 
 <p align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  <a href="mailto:bmoqing@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/bmoqing">
     <img src="https://img.shields.io/badge/GitHub-bmoqing-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
