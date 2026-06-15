@@ -11,7 +11,6 @@
 
 - 🎓 A passionate developer exploring the world of code.
 - 🌱 Currently learning and building awesome things.
-- 📝 Visit my blog: [My Blog](https://example.com) (if you have one, replace this link)
 - 🎯 Goal: Nothing can be brought to the stage, but code can.
 
 ### 🛠️ Tech Stack
