@@ -10,10 +10,6 @@ ___
 #### ✅ About ME.
 * Learning Language:  `JAVA`,`C`, `C++`, `Python`.
 * Learning Framework: `Qt`, `React`,  `PlatformIO`, `Spring Boot`, `Vue 3`
-* Nothing can be brought to the stage.
-
-<a href="https://gitroll.io/profile/uda98wmsrogQlOCMsHadZkHGO1I82" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/uda98wmsrogQlOCMsHadZkHGO1I82?theme=light" alt="GitRoll Profile Badge"/></a>
-![](https://github-readme-stats.shion.dev/api?username=bmoqing&show_icons=true&count_private=true)
 
 ___
 #### 👁️‍🗨️ Find ME
