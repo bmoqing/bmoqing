@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hi There! This is bmoqing.</h1>
 
 <p align="center">
+  <b>Welcome to my profile! You are the visitor:</b>
   <img src="https://count.getloli.com/get/@bmoqing?theme=rule34" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  Welcome to my profile! You are the visitor:
 </p>
 
 ---
@@ -29,6 +26,7 @@
 **Frameworks & Tools:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
